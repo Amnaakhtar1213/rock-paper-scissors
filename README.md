@@ -26,6 +26,3 @@ Players can choose Rock, Paper, or Scissors, and the computer will randomly sele
 [Click here to view the repository](https://github.com/Amnaakhtar1213/rock-paper-scissors.git)
 ```bash
 git bash https://github.com/Amnaakhtar1213/rock-paper-scissors.git
-
-
----
