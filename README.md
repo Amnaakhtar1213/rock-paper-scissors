@@ -14,7 +14,7 @@ Players can choose Rock, Paper, or Scissors, and the computer will randomly sele
 
 ---
 
-##  Technologies
+##  Technologies ⚒️
 
 1.  **HTML**
 2.  **CSS**
@@ -22,7 +22,23 @@ Players can choose Rock, Paper, or Scissors, and the computer will randomly sele
 
 -------
 
-## How to run
-[Click here to view the repository](https://github.com/Amnaakhtar1213/rock-paper-scissors.git)
+## How to run ✨
+-------------------------------
+
+## SCREENSHOT 🖼️
+
+Here's tale a quick look:
+- [Click here for game screenshot](ss.png)
+
+-----------------------------
+
+## LIVE DEMO 🌐
+
+Here's enjoy yourself via live-demo:
+- [Click here for game live-demo](https://amnaakhtar1213.github.io/rock-paper-scissors/)
+
+---------------------------
+
+## Clone the Repository 
 ```bash
 git bash https://github.com/Amnaakhtar1213/rock-paper-scissors.git

@@ -37,6 +37,9 @@ h1{
 .redText, #computerScoreDisplay{
    color: red;
 }
+.blueText{
+  color: blue;
+}
 .scoreDisplay{
   font-size: 2rem;
 
